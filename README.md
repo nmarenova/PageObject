@@ -1,0 +1,1 @@
+# Page Object [![Build status](https://ci.appveyor.com/api/projects/status/v04vw4qv0s22y0qw?svg=true)](https://ci.appveyor.com/project/nmarenova/pageobject)
